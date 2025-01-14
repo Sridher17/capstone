@@ -4,7 +4,7 @@ import { AppBar, Toolbar, Typography, Button, Box } from '@mui/material';
 import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import HomeIcon from '@mui/icons-material/Home';
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
-import SettingsIcon from '@mui/icons-material/Settings';
+
 
 const Navbar = () => {
   return (
