@@ -1,9 +1,0 @@
-# Ignore everything
-*
-
-# Allow the 'mydress-backend' folder and its contents
-!mydress-backend/
-!mydress-backend/**
-
-# Optional: Allow .gitignore itself
-!.gitignore
