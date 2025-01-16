@@ -1,2 +1,4 @@
-# Exclude the src folder
-src/
+node_modules/
+.env
+
+
